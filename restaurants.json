@@ -8,7 +8,9 @@
     "price": "$31-50",
     "hours": "Weekdays from 11:30 AM",
     "dishes": "Bichi Rolls $16-45, large plates $22-69, ceviches/tiraditos $19-26, simple rolls from $6",
-    "notes": "Open-air Japanese and pan-coastal; oceanfront terrace at Ocean Terrace Park"
+    "notes": "Open-air Japanese and pan-coastal; oceanfront terrace at Ocean Terrace Park",
+    "lat": 25.85908,
+    "lng": -80.1202
   },
   {
     "name": "Hoshi & Sushi Asian Cuisine",
@@ -19,7 +21,9 @@
     "price": "$20-60, most $30-40",
     "hours": "Opens at noon",
     "dishes": "Geisha Roll, hamachi, ramen, Hoshi Boat for 2",
-    "notes": "Japanese and Korean"
+    "notes": "Japanese and Korean",
+    "lat": 25.83273,
+    "lng": -80.12106
   },
   {
     "name": "Paperfish Sushi",
@@ -30,7 +34,9 @@
     "price": "$$$ ($50-100/person; 20% service charge added)",
     "hours": "",
     "dishes": "Lunch bento box, rock shrimp bowl",
-    "notes": "Japanese-Peruvian; limited seating, arrive early"
+    "notes": "Japanese-Peruvian; limited seating, arrive early",
+    "lat": 25.7868,
+    "lng": -80.13475
   },
   {
     "name": "Bondi Sushi",
@@ -41,7 +47,9 @@
     "price": "Lunch specials about $38",
     "hours": "",
     "dishes": "Spicy tuna crispy rice, lobster yuzu, spicy blue crab roll, Bliss Box nigiri + maki",
-    "notes": "Large sushi bar, intimate seating, outdoor tables, chic beachy vibe"
+    "notes": "Large sushi bar, intimate seating, outdoor tables, chic beachy vibe",
+    "lat": 25.78023,
+    "lng": -80.14179
   },
   {
     "name": "Azabu Miami Beach",
@@ -52,7 +60,9 @@
     "price": "$$$$",
     "hours": "",
     "dishes": "Hamachi jalapeño, toro tartare, wagyu gyoza, miso black cod",
-    "notes": "Upscale"
+    "notes": "Upscale",
+    "lat": 25.77044,
+    "lng": -80.1323
   },
   {
     "name": "Uchi Miami",
@@ -63,7 +73,9 @@
     "price": "$50+",
     "hours": "Lunch daily noon-3 PM; happy hour 5-6:30 PM",
     "dishes": "$25 three-course lunch (Hama Chili, lunch-only Uchi burger, karaage, pork katsu, walu walu, sorbet), $45 sushi omakase, $28 chirashi, $5 fried milk sundae",
-    "notes": "Chef Tyson Cole; $5 drink specials; smart casual, valet; $60-per-person happy hour tasting for two"
+    "notes": "Chef Tyson Cole; $5 drink specials; smart casual, valet; $60-per-person happy hour tasting for two",
+    "lat": 25.80058,
+    "lng": -80.20144
   },
   {
     "name": "Double Knot",
@@ -74,7 +86,9 @@
     "price": "Chef's Select Menu $68",
     "hours": "",
     "dishes": "Japanese fried chicken, black cod fried rice, wagyu, Kobe beef skewers, bigeye tuna rolls, toro nigiri",
-    "notes": "Small plates and robatayaki; Miami Spice dinner $65 daily"
+    "notes": "Small plates and robatayaki; Miami Spice dinner $65 daily",
+    "lat": 25.80132,
+    "lng": -80.19933
   },
   {
     "name": "Hiyakawa",
@@ -85,7 +99,9 @@
     "price": "$$$$ ($180 tasting menu; about $70/person à la carte before drinks)",
     "hours": "",
     "dishes": "Wagyu gyoza, Hitachi wagyu, sea eel and salmon nigiri, chiffon cake, yuzu honey mochi",
-    "notes": "Upscale, MICHELIN-recommended; limited seating (about 50/day)"
+    "notes": "Upscale, MICHELIN-recommended; limited seating (about 50/day)",
+    "lat": 25.80283,
+    "lng": -80.19536
   },
   {
     "name": "Shiso",
@@ -96,7 +112,9 @@
     "price": "$$$ ($31-50/person per OpenTable while it served dinner)",
     "hours": "",
     "dishes": "Smoked oxtail gunkan, short rib with DIY handroll",
-    "notes": "CLOSED as a restaurant after July 12, 2026; the space is now the Wynwood Event Center, with Shiso as its in-house caterer and occasional brunch/dining events. Japanese-Caribbean smokehouse by Raheem Sealey (ex-KYU), opened March 2025"
+    "notes": "CLOSED as a restaurant after July 12, 2026; the space is now the Wynwood Event Center, with Shiso as its in-house caterer and occasional brunch/dining events. Japanese-Caribbean smokehouse by Raheem Sealey (ex-KYU), opened March 2025",
+    "lat": 25.80304,
+    "lng": -80.20017
   },
   {
     "name": "Matsuri",
@@ -107,7 +125,9 @@
     "price": "Lunch boxes under $15",
     "hours": "",
     "dishes": "Chicken teriyaki, sashimi, gyoza, stir fries with soup, salad, California roll",
-    "notes": "Long-running; +$1 to go"
+    "notes": "Long-running; +$1 to go",
+    "lat": 25.73391,
+    "lng": -80.28769
   },
   {
     "name": "Yue Chinese",
@@ -118,7 +138,9 @@
     "price": "$31-50",
     "hours": "Opens noon daily",
     "dishes": "Cumin lamb, rose roast duck, crispy walnut shrimp, beef in golden pumpkin broth, crispy lace dumplings, dim sum $5.95 each",
-    "notes": "Northern Chinese/Szechuan in an Art Deco space; valet, patio"
+    "notes": "Northern Chinese/Szechuan in an Art Deco space; valet, patio",
+    "lat": 25.787,
+    "lng": -80.13234
   },
   {
     "name": "Kon Chau",
@@ -129,7 +151,9 @@
     "price": "Dim sum $5-8 per item",
     "hours": "",
     "dishes": "Har gow, siu mai, steamed roast pork buns, pan-fried turnip cake",
-    "notes": "Miami institution 20+ years; casual strip mall, walk-ins"
+    "notes": "Miami institution 20+ years; casual strip mall, walk-ins",
+    "lat": 25.73235,
+    "lng": -80.33116
   },
   {
     "name": "Tropical Chinese",
@@ -140,7 +164,9 @@
     "price": "Dim sum $6.75-11",
     "hours": "",
     "dishes": "Beef chow fun $19.95, Singapore rice noodles $19.95, half roasted duck $29.95",
-    "notes": "Hong Kong-style since 1984"
+    "notes": "Hong Kong-style since 1984",
+    "lat": 25.73395,
+    "lng": -80.32591
   },
   {
     "name": "1-800-Lucky",
@@ -151,7 +177,9 @@
     "price": "$$-$$$",
     "hours": "Open late",
     "dishes": "Ramen, pho, Korean fried chicken, Cantonese roast meats, sushi, bao, ice cream",
-    "notes": "Pan-Asian food hall, seven vendors, DJ booth, full bar; walk-in friendly"
+    "notes": "Pan-Asian food hall, seven vendors, DJ booth, full bar; walk-in friendly",
+    "lat": 25.79932,
+    "lng": -80.19797
   },
   {
     "name": "Hakkasan Miami Beach",
@@ -162,7 +190,9 @@
     "price": "$$$$ ($100-150/person before drinks; set menus $108-198)",
     "hours": "",
     "dishes": "Lobster with garlic ginger, Peking duck, orange chicken, XO fried rice, dim sum platter, lychee martini",
-    "notes": "High-end Cantonese; weekend dim sum brunch"
+    "notes": "High-end Cantonese; weekend dim sum brunch",
+    "lat": 25.81808,
+    "lng": -80.12204
   },
   {
     "name": "Jaya at The Setai",
@@ -173,7 +203,9 @@
     "price": "$50+",
     "hours": "",
     "dishes": "Peking duck, truffle dumplings, thali platter, wok lobster",
-    "notes": "Pan-Asian; elegant outdoor courtyard, live entertainment"
+    "notes": "Pan-Asian; elegant outdoor courtyard, live entertainment",
+    "lat": 25.7958,
+    "lng": -80.1287
   },
   {
     "name": "Tanuki River Landing",
@@ -184,7 +216,9 @@
     "price": "$$ ($30-50/person)",
     "hours": "",
     "dishes": "Wasabi martini",
-    "notes": "Modern Asian fusion; tropical interiors, riverfront patio"
+    "notes": "Modern Asian fusion; tropical interiors, riverfront patio",
+    "lat": 25.78522,
+    "lng": -80.21943
   },
   {
     "name": "Hutong",
@@ -195,7 +229,9 @@
     "price": "$22 weekday lunch prix fixe",
     "hours": "Lunch Mon-Fri noon-4 PM",
     "dishes": "Spiced golden tofu, king prawn and jade heart salad, Peking duck, ma la chili prawns, Zhen Jiang pork ribs",
-    "notes": "Upscale Northern Chinese; 70-foot carved wood wall; Miami Spice dinner $65"
+    "notes": "Upscale Northern Chinese; 70-foot carved wood wall; Miami Spice dinner $65",
+    "lat": 25.76751,
+    "lng": -80.19101
   },
   {
     "name": "Korean Kitchen",
@@ -206,7 +242,9 @@
     "price": "$$ ($20-30/person; lunch rice meals $18)",
     "hours": "Mon-Thu 11 AM-8:30 PM, Fri 11-9:30, Sat noon-9:30, Sun noon-7:30",
     "dishes": "Soups, Korean wings, chive pancakes, kimchi stew, bibimbap, beef rice bowl lunch",
-    "notes": "Family-owned, casual, indoor/outdoor, easy parking; (954) 766-5558"
+    "notes": "Family-owned, casual, indoor/outdoor, easy parking; (954) 766-5558",
+    "lat": 25.92622,
+    "lng": -80.16673
   },
   {
     "name": "Kimbop",
@@ -217,7 +255,9 @@
     "price": "$ ($15-25/person)",
     "hours": "",
     "dishes": "Bibimbap, tteok-bokki, kimbap, ramyeon, jeon, glazed fried chicken",
-    "notes": "Korean comfort food, 'Made by a Korean Halmoni' feel"
+    "notes": "Korean comfort food, 'Made by a Korean Halmoni' feel",
+    "lat": 25.68422,
+    "lng": -80.3992
   },
   {
     "name": "The Korean Chef",
@@ -228,7 +268,9 @@
     "price": "$$ ($20-30/person)",
     "hours": "",
     "dishes": "Korean BBQ, iced coffee",
-    "notes": "Elegant; waitlist opens at noon"
+    "notes": "Elegant; waitlist opens at noon",
+    "lat": 25.68745,
+    "lng": -80.36291
   },
   {
     "name": "Gangnam Korean Restaurant",
@@ -239,7 +281,9 @@
     "price": "$$ (most mains $21-22; LA galbi $36)",
     "hours": "",
     "dishes": "Beef bibimbap, Korean spicy chicken, bulgogi rice bowl, LA galbi",
-    "notes": "Authentic, polite owner and staff"
+    "notes": "Authentic, polite owner and staff",
+    "lat": 25.76825,
+    "lng": -80.19113
   },
   {
     "name": "KPOT Korean BBQ & Hot Pot",
@@ -250,7 +294,9 @@
     "price": "$$ (all-you-can-eat $23.99 weekday lunch, $34.99 dinner/weekends)",
     "hours": "",
     "dishes": "All-you-can-eat Korean BBQ, hot pot (both for +$5)",
-    "notes": ""
+    "notes": "",
+    "lat": 25.77206,
+    "lng": -80.32912
   },
   {
     "name": "Doobi Doobap",
@@ -261,7 +307,9 @@
     "price": "$ (rice bowls $16.50-18.50)",
     "hours": "",
     "dishes": "Build-your-own bibimbap, beef bulgogi rice bowl, spicy pork rice bowl",
-    "notes": "Takeout/delivery only. Banchans, authentic"
+    "notes": "Takeout/delivery only. Banchans, authentic",
+    "lat": 25.78287,
+    "lng": -80.19456
   },
   {
     "name": "Sushi Cafe & Shilla Korean BBQ",
@@ -272,7 +320,9 @@
     "price": "$$ (under $30/person)",
     "hours": "",
     "dishes": "Galbi",
-    "notes": ""
+    "notes": "",
+    "lat": 25.77291,
+    "lng": -80.32514
   },
   {
     "name": "COTE Miami",
@@ -283,7 +333,9 @@
     "price": "$$$$",
     "hours": "Happy hour 5-7 PM",
     "dishes": "Butcher's Feast (four prime/wagyu cuts with stews and banchan), savory egg soufflé, soy-caramel soft serve",
-    "notes": "Michelin-starred Korean BBQ, premium cuts, wine, cocktails; happy hour bites under $10"
+    "notes": "Michelin-starred Korean BBQ, premium cuts, wine, cocktails; happy hour bites under $10",
+    "lat": 25.81291,
+    "lng": -80.19158
   },
   {
     "name": "Kyu",
@@ -294,7 +346,9 @@
     "price": "$31-50",
     "hours": "Lunch Wed-Fri noon-4 PM",
     "dishes": "Korean fried chicken, cinnamon roll",
-    "notes": "Wood-fired Asian-Latin, Michelin-recommended, patio, date night. Miami Spice: lunch $40 Wed-Fri, brunch $40 Sat-Sun, dinner $65 Mon/Thu/Sun with cocktail. (786) 577-0150"
+    "notes": "Wood-fired Asian-Latin, Michelin-recommended, patio, date night. Miami Spice: lunch $40 Wed-Fri, brunch $40 Sat-Sun, dinner $65 Mon/Thu/Sun with cocktail. (786) 577-0150",
+    "lat": 25.80091,
+    "lng": -80.20018
   },
   {
     "name": "2 Korean Girls",
@@ -305,7 +359,9 @@
     "price": "$$ (items $10-19)",
     "hours": "",
     "dishes": "Bibimbap",
-    "notes": "Cute packaging"
+    "notes": "Cute packaging",
+    "lat": 25.80372,
+    "lng": -80.20076
   },
   {
     "name": "Choong Man Chicken",
@@ -316,7 +372,9 @@
     "price": "$ ($10-20/person)",
     "hours": "",
     "dishes": "Korean fried chicken in various flavors",
-    "notes": ""
+    "notes": "",
+    "lat": 25.92521,
+    "lng": -80.17449
   },
   {
     "name": "Myung Ga Tofu & BBQ",
@@ -327,7 +385,9 @@
     "price": "$$ (tofu soups about $22; grilled mains $34-45)",
     "hours": "",
     "dishes": "Kalbi",
-    "notes": ""
+    "notes": "",
+    "lat": 26.09476,
+    "lng": -80.36898
   },
   {
     "name": "Pho 79",
@@ -338,7 +398,9 @@
     "price": "Pho about $20/bowl",
     "hours": "",
     "dishes": "Tai, pho ga, bun bo hue, bun thit nuong, com suon",
-    "notes": ""
+    "notes": "",
+    "lat": 25.75627,
+    "lng": -80.3666
   },
   {
     "name": "Pho Nam",
@@ -349,7 +411,9 @@
     "price": "not confirmed",
     "hours": "",
     "dishes": "Bánh tráng nướng (Vietnamese pizza), bún bò Huế, phở bò, bánh xèo",
-    "notes": "Newer, rave reviews"
+    "notes": "Newer, rave reviews",
+    "lat": 25.77328,
+    "lng": -80.18922
   },
   {
     "name": "Tam Tam",
@@ -360,7 +424,9 @@
     "price": "$$-$$$",
     "hours": "",
     "dishes": "Garlic butter wings, tamarind pork ribs, passion fruit cheesecake, pho",
-    "notes": "Elevated, dinner-party energy, sparkling wine list"
+    "notes": "Elevated, dinner-party energy, sparkling wine list",
+    "lat": 25.77531,
+    "lng": -80.19496
   },
   {
     "name": "PhoMi2Go",
@@ -371,7 +437,9 @@
     "price": "$$ (pho $16-17; rice plates about $17)",
     "hours": "Open until midnight",
     "dishes": "Rare steak pho, beef brisket pho, lemongrass pork chop rice plate, summer rolls",
-    "notes": "Best pho per some"
+    "notes": "Best pho per some",
+    "lat": 25.93251,
+    "lng": -80.15393
   },
   {
     "name": "Pho Bar Vietnamese Kitchen",
@@ -382,7 +450,9 @@
     "price": "$$ ($15-30/person)",
     "hours": "",
     "dishes": "Egg rolls with peanut sauce, tamarind wings, calamari",
-    "notes": "Generous portions, fair prices"
+    "notes": "Generous portions, fair prices",
+    "lat": 26.0646,
+    "lng": -80.23057
   },
   {
     "name": "Miss Saigon",
@@ -393,7 +463,9 @@
     "price": "$ ($10-20/person; pho $16.95)",
     "hours": "",
     "dishes": "Steak, banh xeo",
-    "notes": "Quick, authentic"
+    "notes": "Quick, authentic",
+    "lat": 25.62015,
+    "lng": -80.34705
   },
   {
     "name": "545° Banh Mi Cafe",
@@ -404,7 +476,9 @@
     "price": "$ (bánh mì $8.95-9.95)",
     "hours": "",
     "dishes": "The Works (đặc biệt) bánh mì, Korean BBQ beef bánh mì, grilled pork bánh mì",
-    "notes": "Vietnamese desserts and drinks, grab-and-go"
+    "notes": "Vietnamese desserts and drinks, grab-and-go",
+    "lat": 26.04677,
+    "lng": -80.23299
   },
   {
     "name": "Tran An",
@@ -415,7 +489,9 @@
     "price": "$$ ($20-30/person)",
     "hours": "",
     "dishes": "Pho, banh mi, broken rice, seafood rice",
-    "notes": "Chef Jon Nguyen (Le Cordon Bleu Paris)"
+    "notes": "Chef Jon Nguyen (Le Cordon Bleu Paris)",
+    "lat": 25.85004,
+    "lng": -80.1896
   },
   {
     "name": "Com Ga Ninh Kieu",
@@ -426,7 +502,9 @@
     "price": "$$ (most dishes about $18)",
     "hours": "",
     "dishes": "NK chicken with rice (cơm gà), phở gà, bún gà, Vietnamese rice crepe",
-    "notes": "Authentic"
+    "notes": "Authentic",
+    "lat": 26.03314,
+    "lng": -80.17728
   },
   {
     "name": "Basilic Vietnamese Grill",
@@ -437,7 +515,9 @@
     "price": "$$ (pho about $25-27; shaking beef $36.75 on the North Miami menu)",
     "hours": "",
     "dishes": "Beef pho, fresh spring rolls, shaking beef, spicy lemongrass chicken wings",
-    "notes": ""
+    "notes": "",
+    "lat": 25.91171,
+    "lng": -80.15784
   },
   {
     "name": "MaMa Street Food",
@@ -448,7 +528,9 @@
     "price": "$ ($10-20/person; dishes about $7-17)",
     "hours": "",
     "dishes": "Snails, soups, housemade tofu",
-    "notes": ""
+    "notes": "",
+    "lat": 26.04671,
+    "lng": -80.23299
   },
   {
     "name": "Sippin' On Saigon",
@@ -459,7 +541,9 @@
     "price": "$ (coffee shots $3-4; bánh mì $5-6)",
     "hours": "",
     "dishes": "Vietnamese coffee shots, ube coffee (Violet Dream), bánh mì que, bánh mì sliders",
-    "notes": "Vietnamese coffee and snacks"
+    "notes": "Vietnamese coffee and snacks",
+    "lat": 25.77652,
+    "lng": -80.19356
   },
   {
     "name": "Banh (inside Books & Books)",
@@ -470,7 +554,9 @@
     "price": "$$ (bánh mì $18-23)",
     "hours": "",
     "dishes": "Celebratory banh mi",
-    "notes": ""
+    "notes": "",
+    "lat": 25.72782,
+    "lng": -80.24236
   },
   {
     "name": "Green Papaya",
@@ -481,7 +567,9 @@
     "price": "$ (pho $13.95-16.95)",
     "hours": "",
     "dishes": "Beef pho, Saigon Special noodle bowl, coconut shrimp, spring rolls",
-    "notes": "OK versions of classics"
+    "notes": "OK versions of classics",
+    "lat": 25.89792,
+    "lng": -80.30819
   },
   {
     "name": "SOI Thai Street Food",
@@ -492,7 +580,9 @@
     "price": "$$ ($15-30/person; $15 weekday lunch at Wynwood)",
     "hours": "",
     "dishes": "Masaman curry; Wynwood location: drunken noodles, tom yum, mango sticky rice, pad thai, pad kaprow",
-    "notes": "Small portions; good value; some find dishes salty"
+    "notes": "Small portions; good value; some find dishes salty",
+    "lat": 25.7685,
+    "lng": -80.35931
   },
   {
     "name": "Atchana's Homegrown Thai",
@@ -503,7 +593,9 @@
     "price": "$$ (most mains $22-29; about $65/person with tax and tip)",
     "hours": "",
     "dishes": "Satay, curries",
-    "notes": "Cozy, family-run, laid-back lunch/dinner"
+    "notes": "Cozy, family-run, laid-back lunch/dinner",
+    "lat": 25.72777,
+    "lng": -80.24515
   },
   {
     "name": "Lung Yai Thai Tapas",
@@ -514,7 +606,9 @@
     "price": "$$ (Michelin Bib Gourmand; about $18-30/person)",
     "hours": "",
     "dishes": "Kor moo yang, Isaan sausage, yum woon sen",
-    "notes": "Small plates"
+    "notes": "Small plates",
+    "lat": 25.76577,
+    "lng": -80.22321
   },
   {
     "name": "Khaosan Road",
@@ -525,7 +619,9 @@
     "price": "$$ (most mains $22-23)",
     "hours": "",
     "dishes": "Khao soi, BBQ pork noodles, pad chicharrón gra-pao, som tum",
-    "notes": ""
+    "notes": "",
+    "lat": 25.7514,
+    "lng": -80.2579
   },
   {
     "name": "Siam Bistro",
@@ -536,7 +632,9 @@
     "price": "$9.99 lunch specials",
     "hours": "",
     "dishes": "Pad see ew, pad thai, chicken dumplings, free spring roll",
-    "notes": "Intimate, family-run; Michelin guide 2026 mention"
+    "notes": "Intimate, family-run; Michelin guide 2026 mention",
+    "lat": 25.69867,
+    "lng": -80.38355
   },
   {
     "name": "Ricky Thai Bistro",
@@ -547,7 +645,9 @@
     "price": "$$ (curries $21; fried rice $18-22)",
     "hours": "",
     "dishes": "Pad thai, drunken noodles, green curry, pineapple fried rice",
-    "notes": ""
+    "notes": "",
+    "lat": 25.88938,
+    "lng": -80.16591
   },
   {
     "name": "Larb Thai-Isan",
@@ -558,7 +658,9 @@
     "price": "$$ (dishes $4-20; about $35/person with tax and tip)",
     "hours": "",
     "dishes": "Yum naem khao tod, larb, namtok moo yang, duck noodle soup",
-    "notes": "Northeastern Thai"
+    "notes": "Northeastern Thai",
+    "lat": 26.20471,
+    "lng": -80.10866
   },
   {
     "name": "Nour Thai",
@@ -569,7 +671,9 @@
     "price": "$$ (small plates $14-20)",
     "hours": "",
     "dishes": "Chor muang purple dumplings, crispy money bags, khao soi with rib, crispy pork belly",
-    "notes": ""
+    "notes": "",
+    "lat": 26.17189,
+    "lng": -80.13112
   },
   {
     "name": "Bok Bok Baby",
@@ -580,7 +684,9 @@
     "price": "$$ (curries and noodle soups $18-20; pad thai $18-25)",
     "hours": "",
     "dishes": "Pad thai, larb, leng zapp, curries",
-    "notes": ""
+    "notes": "",
+    "lat": 26.01125,
+    "lng": -80.15604
   },
   {
     "name": "Bonding Thai",
@@ -591,7 +697,9 @@
     "price": "$$ (appetizers $10-17; mains $23-35)",
     "hours": "",
     "dishes": "Pineapple shrimp fried rice",
-    "notes": ""
+    "notes": "",
+    "lat": 25.76792,
+    "lng": -80.19346
   },
   {
     "name": "Rock-A-Bangkok",
@@ -602,7 +710,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Tom yum talay, red and green curry, seafood pad thai",
-    "notes": ""
+    "notes": "",
+    "lat": 25.68438,
+    "lng": -80.41777
   },
   {
     "name": "Panya Thai",
@@ -613,7 +723,9 @@
     "price": "$$ (most mains $19-22.50)",
     "hours": "",
     "dishes": "Pad thai, pad see ew, panang curry, massaman curry",
-    "notes": ""
+    "notes": "",
+    "lat": 25.92897,
+    "lng": -80.17933
   },
   {
     "name": "Siam Rice Thai & Sushi",
@@ -624,7 +736,9 @@
     "price": "$$ (most mains $20-23)",
     "hours": "",
     "dishes": "Pad thai, green curry, tom kha soup, spring rolls",
-    "notes": ""
+    "notes": "",
+    "lat": 25.84852,
+    "lng": -80.18441
   },
   {
     "name": "ATK Vegan Thai",
@@ -635,7 +749,9 @@
     "price": "$ (mains $14.99)",
     "hours": "",
     "dishes": "Vegan pad thai, panang curry, tofu eggplant, mango sticky rice",
-    "notes": ""
+    "notes": "",
+    "lat": 25.7953,
+    "lng": -80.19405
   },
   {
     "name": "Basil Thai",
@@ -657,7 +773,9 @@
     "price": "Lunch boxes $11.99-13.99; mains about $24",
     "hours": "11:30 AM-10 PM",
     "dishes": "Butter chicken, tikka masala, lamb rogan josh, shrimp makhani, palak paneer, with rice and naan",
-    "notes": ""
+    "notes": "",
+    "lat": 25.77321,
+    "lng": -80.32822
   },
   {
     "name": "Ghee Indian Kitchen",
@@ -668,7 +786,9 @@
     "price": "$30 and under",
     "hours": "Dinner only: Sun-Thu 5:30-10, Fri-Sat 5:30-11",
     "dishes": "Duck biryani, tandoori chicken, smoked lamb neck, ghost pepper cheddar naan",
-    "notes": "Chef Niven Patel, farm-to-table; $50 Monday tasting; no parking; not a lunch option"
+    "notes": "Chef Niven Patel, farm-to-table; $50 Monday tasting; no parking; not a lunch option",
+    "lat": 25.80009,
+    "lng": -80.1965
   },
   {
     "name": "Akash Miami Beach",
@@ -679,7 +799,9 @@
     "price": "$$-$$$",
     "hours": "",
     "dishes": "Chicken tikka masala, butter chicken (makhani), biryani, garlic naan",
-    "notes": "Indian/Asian"
+    "notes": "Indian/Asian",
+    "lat": 25.78647,
+    "lng": -80.1408
   },
   {
     "name": "The Original Daily Bread Marketplace",
@@ -690,7 +812,9 @@
     "price": "Platter under $16.50",
     "hours": "",
     "dishes": "Falafel, beef shawarma, lamb kafta, baklava",
-    "notes": "Kebabs and Middle Eastern, protein plus three sides"
+    "notes": "Kebabs and Middle Eastern, protein plus three sides",
+    "lat": 25.74172,
+    "lng": -80.23432
   },
   {
     "name": "Anako",
@@ -701,7 +825,9 @@
     "price": "$$$$ (per The Infatuation; per-person range not confirmed)",
     "hours": "",
     "dishes": "Lumpia, oxtail kare-kare, wagyu bistek tartare, banana fritters with sesame caramel",
-    "notes": "Opened Oct 22, 2026; chefs Leicel Ros and Nancy Dominguez; about 40 seats, open kitchen, walk-in cocktail bar; date night or casual lunch"
+    "notes": "Opened Oct 22, 2026; chefs Leicel Ros and Nancy Dominguez; about 40 seats, open kitchen, walk-in cocktail bar; date night or casual lunch",
+    "lat": 25.85007,
+    "lng": -80.1928
   },
   {
     "name": "Manila Kantina",
@@ -712,7 +838,9 @@
     "price": "$ ($18 all-you-can-eat buffet; plates about $15)",
     "hours": "",
     "dishes": "Pork adobo, lechon kawali, pork sisig, pancit",
-    "notes": "Affordable, home-cooked feel, friendly staff"
+    "notes": "Affordable, home-cooked feel, friendly staff",
+    "lat": 25.77434,
+    "lng": -80.1892
   },
   {
     "name": "CHŌ Asian Bistro",
@@ -723,7 +851,9 @@
     "price": "$30 and under",
     "hours": "Dinner only: Sun-Thu 6-10, Fri-Sat 6-11",
     "dishes": "Gochujang-glazed pork ribs, duck bao, khao soi lamb neck, 72-hour braised short rib",
-    "notes": "Moody, shareable plates, creative cocktails; popular date-night pick, not lunch"
+    "notes": "Moody, shareable plates, creative cocktails; popular date-night pick, not lunch",
+    "lat": 25.79212,
+    "lng": -80.14145
   },
   {
     "name": "MILA",
@@ -734,7 +864,9 @@
     "price": "$$$$",
     "hours": "",
     "dishes": "Wagyu carpaccio, spicy salmon crispy rice",
-    "notes": "Asian-Mediterranean rooftop, fire shows"
+    "notes": "Asian-Mediterranean rooftop, fire shows",
+    "lat": 25.78968,
+    "lng": -80.13663
   },
   {
     "name": "Osaka Miami",
@@ -745,7 +877,9 @@
     "price": "$50+",
     "hours": "Lunch Tue-Fri 1-4 PM; Sun brunch noon-4",
     "dishes": "OSK ceviche, hamachi brasa nigiri, pisco ribs, seabass miso-yaki",
-    "notes": "Peruvian-Japanese Nikkei"
+    "notes": "Peruvian-Japanese Nikkei",
+    "lat": 25.75793,
+    "lng": -80.18917
   },
   {
     "name": "SuViche (Wynwood)",
@@ -756,7 +890,9 @@
     "price": "$$-$$$",
     "hours": "",
     "dishes": "Lomo saltado, chaufa",
-    "notes": ""
+    "notes": "",
+    "lat": 25.80288,
+    "lng": -80.19481
   },
   {
     "name": "Moshi Moshi",
@@ -767,7 +903,9 @@
     "price": "$$; California rolls from $8 all day, basic rolls $10-12",
     "hours": "",
     "dishes": "Mexican-Asian fusion rolls; salmon, avocado, tuna, yellowtail jalapeño, shrimp tempura, spicy yellowtail, JB rolls",
-    "notes": "Laid-back, cozy sushi counter; budget-friendly"
+    "notes": "Laid-back, cozy sushi counter; budget-friendly",
+    "lat": 25.7871,
+    "lng": -80.13192
   },
   {
     "name": "Mayami Wynwood",
@@ -778,7 +916,9 @@
     "price": "$31-50",
     "hours": "Lunch Sat-Sun noon-3; dinner Mon-Fri 5 PM-3 AM",
     "dishes": "Wong-Tong tacos (A5 wagyu or ahi tuna), lobster crispy rice, Toro Toro roll, tableside 32-oz tomahawk",
-    "notes": "Mexican-Asian-Mediterranean, DJs and performers at night; no weekday lunch"
+    "notes": "Mexican-Asian-Mediterranean, DJs and performers at night; no weekday lunch",
+    "lat": 25.79934,
+    "lng": -80.19769
   },
   {
     "name": "Sha Wynwood",
@@ -789,7 +929,9 @@
     "price": "$$-$$$ ($30-50/person; mains $22-51)",
     "hours": "Weekday dinner",
     "dishes": "Gravlax-style salmon, torched tuna carpaccio",
-    "notes": "Mediterranean-Asian, cozy; not a lunch option"
+    "notes": "Mediterranean-Asian, cozy; not a lunch option",
+    "lat": 25.80097,
+    "lng": -80.19696
   },
   {
     "name": "Dekotora",
@@ -800,7 +942,9 @@
     "price": "$$$ ($65 nigiri menu with welcome cocktail; à la carte prices not confirmed)",
     "hours": "",
     "dishes": "Hokkaido scallop crudo, hamachi crudo, snow crab maki, chirashi",
-    "notes": "Hidden speakeasy entered through a vintage Japanese vending machine. Unique dishes and cocktails"
+    "notes": "Hidden speakeasy entered through a vintage Japanese vending machine. Unique dishes and cocktails",
+    "lat": 25.80276,
+    "lng": -80.19748
   },
   {
     "name": "Wayan",
@@ -811,7 +955,9 @@
     "price": "$$$$ ($50+/person; about $100/person for a light meal with a drink)",
     "hours": "",
     "dishes": "Lobster noodles",
-    "notes": "Announced as a Miami residency (Jan-May 2026); check it is still open. New SE Asian with French influence, from NYC"
+    "notes": "Announced as a Miami residency (Jan-May 2026); check it is still open. New SE Asian with French influence, from NYC",
+    "lat": 25.7996,
+    "lng": -80.19585
   },
   {
     "name": "Ichimi",
@@ -822,7 +968,9 @@
     "price": "$$ (ramen $21-25)",
     "hours": "",
     "dishes": "Ichimi ramen, spicy miso ramen, pork gyoza, pork belly bao",
-    "notes": "Casual, vegetarian friendly"
+    "notes": "Casual, vegetarian friendly",
+    "lat": 25.81045,
+    "lng": -80.19318
   },
   {
     "name": "Suviche (Miami Beach)",
@@ -833,7 +981,9 @@
     "price": "$$ (rolls about $13; ceviche and saltados $8-13)",
     "hours": "",
     "dishes": "Ceviche natural, lomo saltado, SuViche roll, Perfection roll",
-    "notes": ""
+    "notes": "",
+    "lat": 25.78911,
+    "lng": -80.14027
   },
   {
     "name": "Sawadee Thai & Sushi",
@@ -844,7 +994,9 @@
     "price": "$$ (most mains $20-24)",
     "hours": "",
     "dishes": "Pad thai, massaman curry, spicy basil duck, tom kha kai",
-    "notes": "Appears to be the same restaurant as Sawaddee Thai (North Beach)."
+    "notes": "Appears to be the same restaurant as Sawaddee Thai (North Beach).",
+    "lat": 25.85548,
+    "lng": -80.12782
   },
   {
     "name": "Sriracha House",
@@ -855,7 +1007,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Karmayaki noodles, Miami Tsunami rice noodles, Bring the Heat udon, Szechuan chicken wings",
-    "notes": "PERMANENTLY CLOSED (Yelp, HappyCow); Kung Fu Chicken now operates at this address. Quick bites/fast food; quick lunch option"
+    "notes": "PERMANENTLY CLOSED (Yelp, HappyCow); Kung Fu Chicken now operates at this address. Quick bites/fast food; quick lunch option",
+    "lat": 25.78771,
+    "lng": -80.13186
   },
   {
     "name": "Sushiexpress Miami",
@@ -866,7 +1020,9 @@
     "price": "$",
     "hours": "",
     "dishes": "not confirmed",
-    "notes": "Quick bites; quick lunch option"
+    "notes": "Quick bites; quick lunch option",
+    "lat": 25.78807,
+    "lng": -80.13199
   },
   {
     "name": "Pei Wei Asian Kitchen",
@@ -888,7 +1044,9 @@
     "price": "$",
     "hours": "",
     "dishes": "General Tso's chicken, honey garlic chicken, pepper steak, house special fried rice",
-    "notes": ""
+    "notes": "",
+    "lat": 25.77057,
+    "lng": -80.28882
   },
   {
     "name": "Dumpling King",
@@ -899,7 +1057,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Shanghai soup dumplings, crab-and-pork soup dumplings, pan-fried pork dumplings, scallion pancake",
-    "notes": ""
+    "notes": "",
+    "lat": 25.92895,
+    "lng": -80.19582
   },
   {
     "name": "3 Chef's",
@@ -910,7 +1070,9 @@
     "price": "$",
     "hours": "",
     "dishes": "General Tso's chicken, special fried rice, Mongolian beef, crab rangoon",
-    "notes": ""
+    "notes": "",
+    "lat": 25.76244,
+    "lng": -80.19442
   },
   {
     "name": "The Asian Kitchen",
@@ -921,7 +1083,9 @@
     "price": "$",
     "hours": "",
     "dishes": "House special fried rice, General Tso's chicken, salt-and-pepper shrimp, Singapore noodles",
-    "notes": "Reported PERMANENTLY CLOSED by listing sites."
+    "notes": "Reported PERMANENTLY CLOSED by listing sites.",
+    "lat": 25.73375,
+    "lng": -80.28844
   },
   {
     "name": "Sukhothai Sushi & Asian fusion",
@@ -932,7 +1096,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Sushi pizza, tuna tartare, Thai ceviche, pad thai",
-    "notes": ""
+    "notes": "",
+    "lat": 25.65789,
+    "lng": -80.43082
   },
   {
     "name": "Taiyaki NYC - Miami",
@@ -943,7 +1109,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Fish-shaped taiyaki cone with soft serve, Matcha Better, Straight Outta Japan",
-    "notes": "PERMANENTLY CLOSED (March 2023). Japanese dessert"
+    "notes": "PERMANENTLY CLOSED (March 2023). Japanese dessert",
+    "lat": 25.79932,
+    "lng": -80.19797
   },
   {
     "name": "China Buffet II",
@@ -954,7 +1122,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Chinese buffet, sushi, hibachi, desserts",
-    "notes": "Chinese/sushi"
+    "notes": "Chinese/sushi",
+    "lat": 25.76082,
+    "lng": -80.30515
   },
   {
     "name": "Asian Garden",
@@ -965,7 +1135,9 @@
     "price": "$10-20",
     "hours": "11 AM-8:45 PM",
     "dishes": "Orange chicken, honey garlic chicken, Miami Heat roll, crab rangoon",
-    "notes": "$10 dinner combo with fried rice, egg roll, drink"
+    "notes": "$10 dinner combo with fried rice, egg roll, drink",
+    "lat": 25.88494,
+    "lng": -80.33269
   },
   {
     "name": "Kung Fu Chicken (South Beach)",
@@ -976,7 +1148,9 @@
     "price": "$10-15; everything under $13, sides under $5, combos under $16",
     "hours": "",
     "dishes": "Classic chicken sandwich $11.49, soft egg sandwich $10.91, teriyaki chicken sandwich, master chicken steak, chicken fingers, chicken wraps incl. General Tso; sides: fries, chicken gyoza, corn cheese, radish kimchi",
-    "notes": "Asian street food vibe; four signature sauces; South Beach opened earlier in 2026"
+    "notes": "Asian street food vibe; four signature sauces; South Beach opened earlier in 2026",
+    "lat": 25.78771,
+    "lng": -80.13186
   },
   {
     "name": "KITSUNE HOUSE",
@@ -987,7 +1161,9 @@
     "price": "$ (mains $12.99-15.99)",
     "hours": "",
     "dishes": "Vegetable fried rice",
-    "notes": "Hidden Japanese spot, anime art, arcade games, cheap, nice view"
+    "notes": "Hidden Japanese spot, anime art, arcade games, cheap, nice view",
+    "lat": 25.77402,
+    "lng": -80.19016
   },
   {
     "name": "Brooklyn Dumpling Shop",
@@ -998,7 +1174,9 @@
     "price": "$ (5 dumplings $9.60-11; 12-piece mix $19)",
     "hours": "",
     "dishes": "Wagyu beef dumplings, Kung Pao chicken dumplings, pork & cabbage dumplings, Cuban dumplings",
-    "notes": "Casual-elevated, sugar-free options"
+    "notes": "Casual-elevated, sugar-free options",
+    "lat": 25.47485,
+    "lng": -80.47952
   },
   {
     "name": "P.F. Chang's The Falls",
@@ -1009,7 +1187,9 @@
     "price": "$30 and under; 3-course from $29.99",
     "hours": "",
     "dishes": "Chang's chicken lettuce wraps, Mongolian beef, dynamite shrimp, Kung Pao chicken",
-    "notes": "Lunch specials, chef's feast from $19.99, happy hour from $6, Wed half-price wine"
+    "notes": "Lunch specials, chef's feast from $19.99, happy hour from $6, Wed half-price wine",
+    "lat": 25.78619,
+    "lng": -80.37978
   },
   {
     "name": "Salty Flame",
@@ -1020,7 +1200,9 @@
     "price": "$19.50 express, $22 bowls, $29.50 three-course",
     "hours": "Mon-Fri noon-4 PM",
     "dishes": "Udon carbonara, coal-fire ribs, wagyu burger",
-    "notes": "Steakhouse-Asian fusion"
+    "notes": "Steakhouse-Asian fusion",
+    "lat": 25.76019,
+    "lng": -80.19266
   },
   {
     "name": "Makoto",
@@ -1031,7 +1213,9 @@
     "price": "$29 bento lunch",
     "hours": "",
     "dishes": "Chicken robata, sushi roll or ponzu salmon with miso soup, salad, wasabi rice",
-    "notes": "On Miami Spice October list"
+    "notes": "On Miami Spice October list",
+    "lat": 25.88822,
+    "lng": -80.12498
   },
   {
     "name": "Poke House - Lenox",
@@ -1042,7 +1226,9 @@
     "price": "Build-your-own $15.95 regular, $18.95 large; Sunny Salmon and Chicken bowls about $16.95 (on sale $12); Nutella toast $7.50",
     "hours": "Daily 11 AM-10 PM",
     "dishes": "Roasted Salmon Warm Bowl, Spicy Tuna, Garden Bowl, Guacamole; açaí bowls, house toasts, smoothies, cold-pressed juices",
-    "notes": "Hawaiian poke, quick-service; patio, dogs allowed, vegan options, 10th bowl free; takeout/delivery; (305) 397-8856, poke-house.com"
+    "notes": "Hawaiian poke, quick-service; patio, dogs allowed, vegan options, 10th bowl free; takeout/delivery; (305) 397-8856, poke-house.com",
+    "lat": 25.79111,
+    "lng": -80.1408
   },
   {
     "name": "Sawaddee Thai",
@@ -1053,7 +1239,9 @@
     "price": "Moderate",
     "hours": "Dinner-focused, opens 5 PM",
     "dishes": "Pad thai, massaman curry, spicy basil duck, tom kha kai",
-    "notes": "Locals call it the best Asian food in the area by a mile; not a lunch option"
+    "notes": "Locals call it the best Asian food in the area by a mile; not a lunch option",
+    "lat": 25.85494,
+    "lng": -80.12776
   },
   {
     "name": "Beijing Cafe",
@@ -1064,7 +1252,9 @@
     "price": "$",
     "hours": "Opens noon",
     "dishes": "Sesame chicken, shrimp with lobster sauce, house special lo mein, General Tso's chicken",
-    "notes": "Small, no-frills, fresh and simple"
+    "notes": "Small, no-frills, fresh and simple",
+    "lat": 25.8548,
+    "lng": -80.12053
   },
   {
     "name": "Little Saigon",
@@ -1075,7 +1265,9 @@
     "price": "$",
     "hours": "",
     "dishes": "Pho dac biet, shrimp & pork pho, duck noodle soup, chicken pho, duck pho, tofu rice plate, vegetable dumplings, spring rolls, pan-fried noodles",
-    "notes": "Vietnamese and Chinese, 30 years; quick service, flavorful broth; some note a slight smell on entering"
+    "notes": "Vietnamese and Chinese, 30 years; quick service, flavorful broth; some note a slight smell on entering",
+    "lat": 25.92858,
+    "lng": -80.20046
   },
   {
     "name": "House of Chang Take Out",
@@ -1086,7 +1278,9 @@
     "price": "$$",
     "hours": "Opens noon",
     "dishes": "Sweet and sour chicken, General Tso's chicken, pan-fried dumplings, boneless spare ribs",
-    "notes": "Cheap takeout, good amount of food for the price"
+    "notes": "Cheap takeout, good amount of food for the price",
+    "lat": 25.93087,
+    "lng": -80.16165
   },
   {
     "name": "Salon Canton Restaurant",
@@ -1097,6 +1291,8 @@
     "price": "$$",
     "hours": "Opens noon",
     "dishes": "Fried chicken dumplings, Singapore rice noodles, Yeung Chow fried rice, honey garlic chicken",
-    "notes": "Fresh and tasty; once ran out of Asian beer"
+    "notes": "Fresh and tasty; once ran out of Asian beer",
+    "lat": 25.85553,
+    "lng": -80.1282
   }
 ]
