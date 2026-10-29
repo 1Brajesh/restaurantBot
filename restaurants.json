@@ -27,7 +27,7 @@
     "cuisine": "Japanese/Sushi",
     "address": "432 Española Way, Miami Beach, FL 33139 (also Brickell: 1421 S Miami Ave, Miami, FL 33131)",
     "rating": "4.9 Tripadvisor (624), 4.4 Yelp",
-    "price": "",
+    "price": "$$$ ($50-100/person; 20% service charge added)",
     "hours": "",
     "dishes": "Lunch bento box, rock shrimp bowl",
     "notes": "Japanese-Peruvian; limited seating, arrive early"
@@ -40,7 +40,7 @@
     "rating": "",
     "price": "Lunch specials about $38",
     "hours": "",
-    "dishes": "",
+    "dishes": "Spicy tuna crispy rice, lobster yuzu, spicy blue crab roll, Bliss Box nigiri + maki",
     "notes": "Large sushi bar, intimate seating, outdoor tables, chic beachy vibe"
   },
   {
@@ -51,7 +51,7 @@
     "rating": "4.3",
     "price": "$$$$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Hamachi jalapeño, toro tartare, wagyu gyoza, miso black cod",
     "notes": "Upscale"
   },
   {
@@ -82,7 +82,7 @@
     "cuisine": "Japanese/Sushi",
     "address": "2700 N Miami Ave #5, Miami, FL 33127 (Wynwood)",
     "rating": "",
-    "price": "",
+    "price": "$$$$ ($180 tasting menu; about $70/person à la carte before drinks)",
     "hours": "",
     "dishes": "Wagyu gyoza, Hitachi wagyu, sea eel and salmon nigiri, chiffon cake, yuzu honey mochi",
     "notes": "Upscale, MICHELIN-recommended; limited seating (about 50/day)"
@@ -93,7 +93,7 @@
     "cuisine": "Japanese/Sushi",
     "address": "239 NW 28th St, Miami, FL 33127 (Wynwood)",
     "rating": "",
-    "price": "",
+    "price": "$$$ ($31-50/person per OpenTable while it served dinner)",
     "hours": "",
     "dishes": "Smoked oxtail gunkan, short rib with DIY handroll",
     "notes": "CLOSED as a restaurant after July 12, 2026; the space is now the Wynwood Event Center, with Shiso as its in-house caterer and occasional brunch/dining events. Japanese-Caribbean smokehouse by Raheem Sealey (ex-KYU), opened March 2025"
@@ -128,7 +128,7 @@
     "rating": "",
     "price": "Dim sum $5-8 per item",
     "hours": "",
-    "dishes": "",
+    "dishes": "Har gow, siu mai, steamed roast pork buns, pan-fried turnip cake",
     "notes": "Miami institution 20+ years; casual strip mall, walk-ins"
   },
   {
@@ -159,7 +159,7 @@
     "cuisine": "Chinese",
     "address": "Fontainebleau, 4441 Collins Ave, Miami Beach, FL 33140",
     "rating": "",
-    "price": "",
+    "price": "$$$$ ($100-150/person before drinks; set menus $108-198)",
     "hours": "",
     "dishes": "Lobster with garlic ginger, Peking duck, orange chicken, XO fried rice, dim sum platter, lychee martini",
     "notes": "High-end Cantonese; weekend dim sum brunch"
@@ -172,7 +172,7 @@
     "rating": "4.6",
     "price": "$50+",
     "hours": "",
-    "dishes": "",
+    "dishes": "Peking duck, truffle dumplings, thali platter, wok lobster",
     "notes": "Pan-Asian; elegant outdoor courtyard, live entertainment"
   },
   {
@@ -181,7 +181,7 @@
     "cuisine": "Chinese",
     "address": "1420 NW North River Dr, Suite 140 (River Landing), Miami, FL 33125",
     "rating": "",
-    "price": "",
+    "price": "$$ ($30-50/person)",
     "hours": "",
     "dishes": "Wasabi martini",
     "notes": "Modern Asian fusion; tropical interiors, riverfront patio"
@@ -203,7 +203,7 @@
     "cuisine": "Korean",
     "address": "North Miami Beach, 1661 NE 163rd St Suite A",
     "rating": "4.4 (390)",
-    "price": "",
+    "price": "$$ ($20-30/person; lunch rice meals $18)",
     "hours": "Mon-Thu 11 AM-8:30 PM, Fri 11-9:30, Sat noon-9:30, Sun noon-7:30",
     "dishes": "Soups, Korean wings, chive pancakes, kimchi stew, bibimbap, beef rice bowl lunch",
     "notes": "Family-owned, casual, indoor/outdoor, easy parking; (954) 766-5558"
@@ -214,7 +214,7 @@
     "cuisine": "Korean",
     "address": "Kendall, 12578 N Kendall Dr",
     "rating": "4.6 (270)",
-    "price": "",
+    "price": "$ ($15-25/person)",
     "hours": "",
     "dishes": "Bibimbap, tteok-bokki, kimbap, ramyeon, jeon, glazed fried chicken",
     "notes": "Korean comfort food, 'Made by a Korean Halmoni' feel"
@@ -225,7 +225,7 @@
     "cuisine": "Korean",
     "address": "10471 SW 88th St, Suite B103, Miami, FL 33176 (Kendall)",
     "rating": "4.7 (17-20)",
-    "price": "",
+    "price": "$$ ($20-30/person)",
     "hours": "",
     "dishes": "Korean BBQ, iced coffee",
     "notes": "Elegant; waitlist opens at noon"
@@ -236,9 +236,9 @@
     "cuisine": "Korean",
     "address": "35 SE 6th St, Unit 105, Miami, FL 33131 (Brickell)",
     "rating": "4.6-4.9",
-    "price": "",
+    "price": "$$ (most mains $21-22; LA galbi $36)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Beef bibimbap, Korean spicy chicken, bulgogi rice bowl, LA galbi",
     "notes": "Authentic, polite owner and staff"
   },
   {
@@ -247,9 +247,9 @@
     "cuisine": "Korean",
     "address": "8255 W Flagler St, Miami, FL 33144",
     "rating": "4.6 (110)",
-    "price": "",
+    "price": "$$ (all-you-can-eat $23.99 weekday lunch, $34.99 dinner/weekends)",
     "hours": "",
-    "dishes": "",
+    "dishes": "All-you-can-eat Korean BBQ, hot pot (both for +$5)",
     "notes": ""
   },
   {
@@ -258,9 +258,9 @@
     "cuisine": "Korean",
     "address": "31 NW 9th St (inside Munch Labs), Miami, FL 33136",
     "rating": "4.6",
-    "price": "",
+    "price": "$ (rice bowls $16.50-18.50)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Build-your-own bibimbap, beef bulgogi rice bowl, spicy pork rice bowl",
     "notes": "Takeout/delivery only. Banchans, authentic"
   },
   {
@@ -269,7 +269,7 @@
     "cuisine": "Korean",
     "address": "7917 NW 2nd St",
     "rating": "4.0-4.1 (653-686)",
-    "price": "",
+    "price": "$$ (under $30/person)",
     "hours": "",
     "dishes": "Galbi",
     "notes": ""
@@ -282,7 +282,7 @@
     "rating": "",
     "price": "$$$$",
     "hours": "Happy hour 5-7 PM",
-    "dishes": "",
+    "dishes": "Butcher's Feast (four prime/wagyu cuts with stews and banchan), savory egg soufflé, soy-caramel soft serve",
     "notes": "Michelin-starred Korean BBQ, premium cuts, wine, cocktails; happy hour bites under $10"
   },
   {
@@ -302,7 +302,7 @@
     "cuisine": "Korean",
     "address": "280 NW 29th St",
     "rating": "4.5",
-    "price": "",
+    "price": "$$ (items $10-19)",
     "hours": "",
     "dishes": "Bibimbap",
     "notes": "Cute packaging"
@@ -313,7 +313,7 @@
     "cuisine": "Korean",
     "address": "1256 NE 163rd St, North Miami Beach, FL 33162 (also 4900 S University Dr, Davie, FL 33328)",
     "rating": "",
-    "price": "",
+    "price": "$ ($10-20/person)",
     "hours": "",
     "dishes": "Korean fried chicken in various flavors",
     "notes": ""
@@ -324,7 +324,7 @@
     "cuisine": "Korean",
     "address": "1944 Weston Rd, Weston, FL 33326",
     "rating": "4.1 (402)",
-    "price": "",
+    "price": "$$ (tofu soups about $22; grilled mains $34-45)",
     "hours": "",
     "dishes": "Kalbi",
     "notes": ""
@@ -346,9 +346,9 @@
     "cuisine": "Vietnamese",
     "address": "270 E Flagler St, Miami, FL 33131",
     "rating": "4.8 (9); Infatuation 8.8",
-    "price": "",
+    "price": "not confirmed",
     "hours": "",
-    "dishes": "",
+    "dishes": "Bánh tráng nướng (Vietnamese pizza), bún bò Huế, phở bò, bánh xèo",
     "notes": "Newer, rave reviews"
   },
   {
@@ -368,9 +368,9 @@
     "cuisine": "Vietnamese",
     "address": "17010 W Dixie Hwy, Suite G, North Miami Beach, FL 33160",
     "rating": "4.5 (749-757)",
-    "price": "",
+    "price": "$$ (pho $16-17; rice plates about $17)",
     "hours": "Open until midnight",
-    "dishes": "",
+    "dishes": "Rare steak pho, beef brisket pho, lemongrass pork chop rice plate, summer rolls",
     "notes": "Best pho per some"
   },
   {
@@ -379,7 +379,7 @@
     "cuisine": "Vietnamese",
     "address": "6310 Griffin Rd, Suite B-107, Davie, FL 33314",
     "rating": "4.6-4.9 (720-755)",
-    "price": "",
+    "price": "$$ ($15-30/person)",
     "hours": "",
     "dishes": "Egg rolls with peanut sauce, tamarind wings, calamari",
     "notes": "Generous portions, fair prices"
@@ -390,7 +390,7 @@
     "cuisine": "Vietnamese",
     "address": "9539 SW 160th St, Miami, FL 33157",
     "rating": "4.7-4.9",
-    "price": "",
+    "price": "$ ($10-20/person; pho $16.95)",
     "hours": "",
     "dishes": "Steak, banh xeo",
     "notes": "Quick, authentic"
@@ -401,9 +401,9 @@
     "cuisine": "Vietnamese",
     "address": "6461 Stirling Rd, Davie, FL 33314",
     "rating": "4.4 (884-897)",
-    "price": "",
+    "price": "$ (bánh mì $8.95-9.95)",
     "hours": "",
-    "dishes": "",
+    "dishes": "The Works (đặc biệt) bánh mì, Korean BBQ beef bánh mì, grilled pork bánh mì",
     "notes": "Vietnamese desserts and drinks, grab-and-go"
   },
   {
@@ -412,7 +412,7 @@
     "cuisine": "Vietnamese",
     "address": "Little River, 215 NE 82nd St",
     "rating": "",
-    "price": "",
+    "price": "$$ ($20-30/person)",
     "hours": "",
     "dishes": "Pho, banh mi, broken rice, seafood rice",
     "notes": "Chef Jon Nguyen (Le Cordon Bleu Paris)"
@@ -423,9 +423,9 @@
     "cuisine": "Vietnamese",
     "address": "3373 Sheridan St, Hollywood, FL 33021",
     "rating": "4.6-4.7",
-    "price": "",
+    "price": "$$ (most dishes about $18)",
     "hours": "",
-    "dishes": "",
+    "dishes": "NK chicken with rice (cơm gà), phở gà, bún gà, Vietnamese rice crepe",
     "notes": "Authentic"
   },
   {
@@ -434,9 +434,9 @@
     "cuisine": "Vietnamese",
     "address": "14734 Biscayne Blvd, North Miami Beach, FL 33181",
     "rating": "4.2 (572)",
-    "price": "",
+    "price": "$$ (pho about $25-27; shaking beef $36.75 on the North Miami menu)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Beef pho, fresh spring rolls, shaking beef, spicy lemongrass chicken wings",
     "notes": ""
   },
   {
@@ -445,7 +445,7 @@
     "cuisine": "Vietnamese",
     "address": "6467 Stirling Rd, Davie, FL 33314",
     "rating": "",
-    "price": "",
+    "price": "$ ($10-20/person; dishes about $7-17)",
     "hours": "",
     "dishes": "Snails, soups, housemade tofu",
     "notes": ""
@@ -456,9 +456,9 @@
     "cuisine": "Vietnamese",
     "address": "215 N Miami Ave, Miami, FL 33128",
     "rating": "",
-    "price": "",
+    "price": "$ (coffee shots $3-4; bánh mì $5-6)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Vietnamese coffee shots, ube coffee (Violet Dream), bánh mì que, bánh mì sliders",
     "notes": "Vietnamese coffee and snacks"
   },
   {
@@ -467,7 +467,7 @@
     "cuisine": "Vietnamese",
     "address": "3409 Main Hwy (Books & Books), Coconut Grove, FL 33133",
     "rating": "",
-    "price": "",
+    "price": "$$ (bánh mì $18-23)",
     "hours": "",
     "dishes": "Celebratory banh mi",
     "notes": ""
@@ -478,9 +478,9 @@
     "cuisine": "Vietnamese",
     "address": "16893 NW 67th Ave, Hialeah, FL 33015",
     "rating": "",
-    "price": "",
+    "price": "$ (pho $13.95-16.95)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Beef pho, Saigon Special noodle bowl, coconut shrimp, spring rolls",
     "notes": "OK versions of classics"
   },
   {
@@ -489,7 +489,7 @@
     "cuisine": "Thai",
     "address": "10016 W Flagler St, Miami, FL 33174 (Sweetwater); also inside 1-800-Lucky, 143 NW 23rd St, Miami, FL 33127 (Wynwood)",
     "rating": "4.8 (60-62)",
-    "price": "",
+    "price": "$$ ($15-30/person; $15 weekday lunch at Wynwood)",
     "hours": "",
     "dishes": "Masaman curry; Wynwood location: drunken noodles, tom yum, mango sticky rice, pad thai, pad kaprow",
     "notes": "Small portions; good value; some find dishes salty"
@@ -500,7 +500,7 @@
     "cuisine": "Thai",
     "address": "Coconut Grove, 3194 Commodore Plaza",
     "rating": "4.4 (382-395)",
-    "price": "",
+    "price": "$$ (most mains $22-29; about $65/person with tax and tip)",
     "hours": "",
     "dishes": "Satay, curries",
     "notes": "Cozy, family-run, laid-back lunch/dinner"
@@ -511,7 +511,7 @@
     "cuisine": "Thai",
     "address": "1731 SW 8th St, Miami, FL 33135 (Little Havana)",
     "rating": "4.0 (1.8k)",
-    "price": "",
+    "price": "$$ (Michelin Bib Gourmand; about $18-30/person)",
     "hours": "",
     "dishes": "Kor moo yang, Isaan sausage, yum woon sen",
     "notes": "Small plates"
@@ -522,9 +522,9 @@
     "cuisine": "Thai",
     "address": "157 Giralda Ave, Coral Gables, FL 33134",
     "rating": "4.4 (183)",
-    "price": "",
+    "price": "$$ (most mains $22-23)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Khao soi, BBQ pork noodles, pad chicharrón gra-pao, som tum",
     "notes": ""
   },
   {
@@ -544,9 +544,9 @@
     "cuisine": "Thai",
     "address": "1617 NE 123rd St, North Miami, FL 33181",
     "rating": "4.6 (777)",
-    "price": "",
+    "price": "$$ (curries $21; fried rice $18-22)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pad thai, drunken noodles, green curry, pineapple fried rice",
     "notes": ""
   },
   {
@@ -555,9 +555,9 @@
     "cuisine": "Thai",
     "address": "6234 N Federal Hwy, Fort Lauderdale, FL 33308",
     "rating": "4.7 (1k); Infatuation 9.2",
-    "price": "",
+    "price": "$$ (dishes $4-20; about $35/person with tax and tip)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Yum naem khao tod, larb, namtok moo yang, duck noodle soup",
     "notes": "Northeastern Thai"
   },
   {
@@ -566,9 +566,9 @@
     "cuisine": "Thai",
     "address": "3554 NE 12th Ave, Oakland Park, FL 33334",
     "rating": "",
-    "price": "",
+    "price": "$$ (small plates $14-20)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Chor muang purple dumplings, crispy money bags, khao soi with rib, crispy pork belly",
     "notes": ""
   },
   {
@@ -577,9 +577,9 @@
     "cuisine": "Thai",
     "address": "2051A Hollywood Blvd, Hollywood, FL 33020",
     "rating": "",
-    "price": "",
+    "price": "$$ (curries and noodle soups $18-20; pad thai $18-25)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pad thai, larb, leng zapp, curries",
     "notes": ""
   },
   {
@@ -588,7 +588,7 @@
     "cuisine": "Thai",
     "address": "638 S Miami Ave",
     "rating": "",
-    "price": "",
+    "price": "$$ (appetizers $10-17; mains $23-35)",
     "hours": "",
     "dishes": "Pineapple shrimp fried rice",
     "notes": ""
@@ -610,9 +610,9 @@
     "cuisine": "Thai",
     "address": "520 NE 167th St, North Miami Beach, FL 33162",
     "rating": "4.2 (470)",
-    "price": "",
+    "price": "$$ (most mains $19-22.50)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pad thai, pad see ew, panang curry, massaman curry",
     "notes": ""
   },
   {
@@ -621,9 +621,9 @@
     "cuisine": "Thai",
     "address": "7941 Biscayne Blvd, Miami, FL 33138",
     "rating": "3.9 (365)",
-    "price": "",
+    "price": "$$ (most mains $20-23)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pad thai, green curry, tom kha soup, spring rolls",
     "notes": ""
   },
   {
@@ -632,9 +632,9 @@
     "cuisine": "Thai",
     "address": "1900 NE Miami Ct, Miami, FL 33132 (Omni/Edgewater)",
     "rating": "",
-    "price": "",
+    "price": "$ (mains $14.99)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Vegan pad thai, panang curry, tofu eggplant, mango sticky rice",
     "notes": ""
   },
   {
@@ -643,9 +643,9 @@
     "cuisine": "Thai",
     "address": "Address not confirmed (formerly Dadeland Mall food court, 7535 N Kendall Dr)",
     "rating": "",
-    "price": "",
+    "price": "not confirmed",
     "hours": "",
-    "dishes": "",
+    "dishes": "not confirmed",
     "notes": "May be closed: its Dadeland company was dissolved in 2023; couldn't confirm it is still open. Cheap, huge portions"
   },
   {
@@ -667,7 +667,7 @@
     "rating": "4.7 (355)",
     "price": "$30 and under",
     "hours": "Dinner only: Sun-Thu 5:30-10, Fri-Sat 5:30-11",
-    "dishes": "",
+    "dishes": "Duck biryani, tandoori chicken, smoked lamb neck, ghost pepper cheddar naan",
     "notes": "Chef Niven Patel, farm-to-table; $50 Monday tasting; no parking; not a lunch option"
   },
   {
@@ -678,7 +678,7 @@
     "rating": "4.6 (100)",
     "price": "$$-$$$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Chicken tikka masala, butter chicken (makhani), biryani, garlic naan",
     "notes": "Indian/Asian"
   },
   {
@@ -689,7 +689,7 @@
     "rating": "",
     "price": "Platter under $16.50",
     "hours": "",
-    "dishes": "",
+    "dishes": "Falafel, beef shawarma, lamb kafta, baklava",
     "notes": "Kebabs and Middle Eastern, protein plus three sides"
   },
   {
@@ -698,7 +698,7 @@
     "cuisine": "Filipino",
     "address": "8222 NE 2nd Ave, Miami, FL 33138 (Little River)",
     "rating": "",
-    "price": "",
+    "price": "$$$$ (per The Infatuation; per-person range not confirmed)",
     "hours": "",
     "dishes": "Lumpia, oxtail kare-kare, wagyu bistek tartare, banana fritters with sesame caramel",
     "notes": "Opened Oct 22, 2026; chefs Leicel Ros and Nancy Dominguez; about 40 seats, open kitchen, walk-in cocktail bar; date night or casual lunch"
@@ -709,9 +709,9 @@
     "cuisine": "Filipino",
     "address": "245 E Flagler St, Miami, FL 33131",
     "rating": "4.9 (91-97)",
-    "price": "",
+    "price": "$ ($18 all-you-can-eat buffet; plates about $15)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pork adobo, lechon kawali, pork sisig, pancit",
     "notes": "Affordable, home-cooked feel, friendly staff"
   },
   {
@@ -722,7 +722,7 @@
     "rating": "4.8 (103)",
     "price": "$30 and under",
     "hours": "Dinner only: Sun-Thu 6-10, Fri-Sat 6-11",
-    "dishes": "",
+    "dishes": "Gochujang-glazed pork ribs, duck bao, khao soi lamb neck, 72-hour braised short rib",
     "notes": "Moody, shareable plates, creative cocktails; popular date-night pick, not lunch"
   },
   {
@@ -744,7 +744,7 @@
     "rating": "4.9 (296)",
     "price": "$50+",
     "hours": "Lunch Tue-Fri 1-4 PM; Sun brunch noon-4",
-    "dishes": "",
+    "dishes": "OSK ceviche, hamachi brasa nigiri, pisco ribs, seabass miso-yaki",
     "notes": "Peruvian-Japanese Nikkei"
   },
   {
@@ -777,7 +777,7 @@
     "rating": "4.5-4.6 (1,513-1,526)",
     "price": "$31-50",
     "hours": "Lunch Sat-Sun noon-3; dinner Mon-Fri 5 PM-3 AM",
-    "dishes": "",
+    "dishes": "Wong-Tong tacos (A5 wagyu or ahi tuna), lobster crispy rice, Toro Toro roll, tableside 32-oz tomahawk",
     "notes": "Mexican-Asian-Mediterranean, DJs and performers at night; no weekday lunch"
   },
   {
@@ -786,7 +786,7 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "97 NW 25th St, Miami, FL 33127",
     "rating": "",
-    "price": "",
+    "price": "$$-$$$ ($30-50/person; mains $22-51)",
     "hours": "Weekday dinner",
     "dishes": "Gravlax-style salmon, torched tuna carpaccio",
     "notes": "Mediterranean-Asian, cozy; not a lunch option"
@@ -797,9 +797,9 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "112 NW 28th St (inside Niño Gordo), Miami, FL 33127",
     "rating": "4.7",
-    "price": "",
+    "price": "$$$ ($65 nigiri menu with welcome cocktail; à la carte prices not confirmed)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Hokkaido scallop crudo, hamachi crudo, snow crab maki, chirashi",
     "notes": "Hidden speakeasy entered through a vintage Japanese vending machine. Unique dishes and cocktails"
   },
   {
@@ -808,7 +808,7 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "50 NW 24th St, Suite 101, Miami, FL 33127",
     "rating": "4.7 (9)",
-    "price": "",
+    "price": "$$$$ ($50+/person; about $100/person for a light meal with a drink)",
     "hours": "",
     "dishes": "Lobster noodles",
     "notes": "Announced as a Miami residency (Jan-May 2026); check it is still open. New SE Asian with French influence, from NYC"
@@ -819,9 +819,9 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "118 Buena Vista Blvd, Miami, FL 33127 (Midtown; some listings show 3252 NE 1st Ave)",
     "rating": "4.4 (467)",
-    "price": "",
+    "price": "$$ (ramen $21-25)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Ichimi ramen, spicy miso ramen, pork gyoza, pork belly bao",
     "notes": "Casual, vegetarian friendly"
   },
   {
@@ -830,9 +830,9 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "1119 16th St, Miami Beach, FL 33139",
     "rating": "4.5",
-    "price": "",
+    "price": "$$ (rolls about $13; ceviche and saltados $8-13)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Ceviche natural, lomo saltado, SuViche roll, Perfection roll",
     "notes": ""
   },
   {
@@ -841,9 +841,9 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "6968 Bay Dr, Miami Beach, FL 33141",
     "rating": "4.1",
-    "price": "",
+    "price": "$$ (most mains $20-24)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Pad thai, massaman curry, spicy basil duck, tom kha kai",
     "notes": "Appears to be the same restaurant as Sawaddee Thai (North Beach)."
   },
   {
@@ -854,7 +854,7 @@
     "rating": "4.1 (280)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Karmayaki noodles, Miami Tsunami rice noodles, Bring the Heat udon, Szechuan chicken wings",
     "notes": "PERMANENTLY CLOSED (Yelp, HappyCow); Kung Fu Chicken now operates at this address. Quick bites/fast food; quick lunch option"
   },
   {
@@ -865,7 +865,7 @@
     "rating": "4.4 (56)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "not confirmed",
     "notes": "Quick bites; quick lunch option"
   },
   {
@@ -876,7 +876,7 @@
     "rating": "3.9 (42)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Firecracker chicken, honey-seared chicken, orange chicken, Mongolian steak",
     "notes": ""
   },
   {
@@ -887,7 +887,7 @@
     "rating": "4.1 (192)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "General Tso's chicken, honey garlic chicken, pepper steak, house special fried rice",
     "notes": ""
   },
   {
@@ -898,7 +898,7 @@
     "rating": "4.4 (41)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Shanghai soup dumplings, crab-and-pork soup dumplings, pan-fried pork dumplings, scallion pancake",
     "notes": ""
   },
   {
@@ -909,7 +909,7 @@
     "rating": "3.7 (51)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "General Tso's chicken, special fried rice, Mongolian beef, crab rangoon",
     "notes": ""
   },
   {
@@ -920,7 +920,7 @@
     "rating": "4.0 (13)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "House special fried rice, General Tso's chicken, salt-and-pepper shrimp, Singapore noodles",
     "notes": "Reported PERMANENTLY CLOSED by listing sites."
   },
   {
@@ -931,7 +931,7 @@
     "rating": "4.5 (12)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Sushi pizza, tuna tartare, Thai ceviche, pad thai",
     "notes": ""
   },
   {
@@ -942,7 +942,7 @@
     "rating": "4.3 (41)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Fish-shaped taiyaki cone with soft serve, Matcha Better, Straight Outta Japan",
     "notes": "PERMANENTLY CLOSED (March 2023). Japanese dessert"
   },
   {
@@ -953,7 +953,7 @@
     "rating": "3.8 (57)",
     "price": "$",
     "hours": "",
-    "dishes": "",
+    "dishes": "Chinese buffet, sushi, hibachi, desserts",
     "notes": "Chinese/sushi"
   },
   {
@@ -964,7 +964,7 @@
     "rating": "",
     "price": "$10-20",
     "hours": "11 AM-8:45 PM",
-    "dishes": "",
+    "dishes": "Orange chicken, honey garlic chicken, Miami Heat roll, crab rangoon",
     "notes": "$10 dinner combo with fried rice, egg roll, drink"
   },
   {
@@ -984,7 +984,7 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "19 SE 2nd Ave, Suite 4 (Ingraham Building), Miami, FL 33131",
     "rating": "",
-    "price": "",
+    "price": "$ (mains $12.99-15.99)",
     "hours": "",
     "dishes": "Vegetable fried rice",
     "notes": "Hidden Japanese spot, anime art, arcade games, cheap, nice view"
@@ -995,9 +995,9 @@
     "cuisine": "Asian Fusion/Misc",
     "address": "550 NW 1st Ave, Suite 110 (MiamiCentral), Miami, FL 33136",
     "rating": "",
-    "price": "",
+    "price": "$ (5 dumplings $9.60-11; 12-piece mix $19)",
     "hours": "",
-    "dishes": "",
+    "dishes": "Wagyu beef dumplings, Kung Pao chicken dumplings, pork & cabbage dumplings, Cuban dumplings",
     "notes": "Casual-elevated, sugar-free options"
   },
   {
@@ -1008,7 +1008,7 @@
     "rating": "4.2 (139)",
     "price": "$30 and under; 3-course from $29.99",
     "hours": "",
-    "dishes": "",
+    "dishes": "Chang's chicken lettuce wraps, Mongolian beef, dynamite shrimp, Kung Pao chicken",
     "notes": "Lunch specials, chef's feast from $19.99, happy hour from $6, Wed half-price wine"
   },
   {
@@ -1052,7 +1052,7 @@
     "rating": "4.0 (495)",
     "price": "Moderate",
     "hours": "Dinner-focused, opens 5 PM",
-    "dishes": "",
+    "dishes": "Pad thai, massaman curry, spicy basil duck, tom kha kai",
     "notes": "Locals call it the best Asian food in the area by a mile; not a lunch option"
   },
   {
@@ -1063,7 +1063,7 @@
     "rating": "4.1 (246)",
     "price": "$",
     "hours": "Opens noon",
-    "dishes": "",
+    "dishes": "Sesame chicken, shrimp with lobster sauce, house special lo mein, General Tso's chicken",
     "notes": "Small, no-frills, fresh and simple"
   },
   {
@@ -1085,7 +1085,7 @@
     "rating": "4.0 (74)",
     "price": "$$",
     "hours": "Opens noon",
-    "dishes": "",
+    "dishes": "Sweet and sour chicken, General Tso's chicken, pan-fried dumplings, boneless spare ribs",
     "notes": "Cheap takeout, good amount of food for the price"
   },
   {
@@ -1096,7 +1096,7 @@
     "rating": "3.8 (155)",
     "price": "$$",
     "hours": "Opens noon",
-    "dishes": "",
+    "dishes": "Fried chicken dumplings, Singapore rice noodles, Yeung Chow fried rice, honey garlic chicken",
     "notes": "Fresh and tasty; once ran out of Asian beer"
   }
 ]

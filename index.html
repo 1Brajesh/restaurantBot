@@ -11,7 +11,7 @@ h2{margin:18px 12px 6px;font-size:1.15rem;color:#1f3a4d}h2 span{color:#777;font-
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:10px;padding:0 12px}
 .card{background:#fff;border-radius:8px;padding:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)}
 .card h3{margin:0 0 4px;font-size:1.05rem}.tag{display:inline-block;background:#e4eef5;color:#1f3a4d;border-radius:10px;padding:1px 8px;font-size:.75rem}
-.card p{margin:4px 0;font-size:.88rem}.card b{color:#555}#count{padding:0 12px;font-size:.85rem;color:#666}
+.card p{margin:4px 0;font-size:.88rem}.card b{color:#555}p.key{background:#f3f7fa;border-radius:4px;padding:4px 6px}.nc{color:#999;font-style:italic}#count{padding:0 12px;font-size:.85rem;color:#666}
 </style></head><body>
 <header><h1>Restaurant List</h1></header>
 <div class="note">Details came from earlier chats and haven't been verified. Information is as of October 2026; check with the restaurant before going.</div>
@@ -31,6 +31,6 @@ function render(){const q=document.getElementById('q').value.toLowerCase(),c=doc
  const keys=Object.keys(groups).sort((a,b)=>{const i=ORDER.indexOf(a),j=ORDER.indexOf(b);return (i<0?99:i)-(j<0?99:j)});
  document.getElementById('list').innerHTML=keys.map(k=>`<h2>${esc(k)} <span>(${groups[k].length})</span></h2><div class="grid">`+
   groups[k].sort((a,b)=>a.name.localeCompare(b.name)).map(x=>`<div class="card"><h3>${esc(x.name)}</h3><span class="tag">${esc(x.cuisine)}</span>`+
-  [['Address',x.address],['Price',x.price],['Hours',x.hours],['Rating',x.rating],['Dishes',x.dishes],['Notes',x.notes]].filter(p=>p[1]).map(p=>`<p><b>${p[0]}:</b> ${esc(p[1])}</p>`).join('')+'</div>').join('')+'</div>').join('');}
+  [['Price',x.price||'not confirmed','key'],['Notable dishes',x.dishes||'not confirmed','key'],['Address',x.address],['Hours',x.hours],['Rating',x.rating],['Notes',x.notes]].filter(p=>p[1]).map(p=>`<p class="${p[2]||''}"><b>${p[0]}:</b> ${/^not confirmed$/i.test(p[1])?'<span class="nc">not confirmed</span>':esc(p[1])}</p>`).join('')+'</div>').join('')+'</div>').join('');}
 document.getElementById('q').oninput=render;document.getElementById('city').onchange=render;
 </script></body></html>
