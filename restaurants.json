@@ -1294,5 +1294,18 @@
     "notes": "Fresh and tasty; once ran out of Asian beer",
     "lat": 25.85553,
     "lng": -80.1282
+  },
+  {
+    "name": "Garcia's Seafood Grille & Fish Market",
+    "city": "Downtown Miami",
+    "cuisine": "Seafood",
+    "address": "398 NW North River Dr, Miami, FL 33128 (Miami River)",
+    "rating": "3.4 (1449, Yelp); 3.9 (1053, Tripadvisor)",
+    "price": "$$$ ($31-50/person)",
+    "hours": "Daily 11 AM-9 PM; Fri-Sat until 10 PM",
+    "dishes": "Stone crabs (in season Oct 15-May 1), whole yellowtail snapper, fish dip, conch fritters, grouper sandwich",
+    "notes": "Casual riverside spot with its own fishing fleet and fish market; outdoor seating; (305) 375-0765",
+    "lat": 25.7774006,
+    "lng": -80.203692
   }
 ]
