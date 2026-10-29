@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Restaurant List</title>
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;margin:0;background:#f6f6f4;color:#222}
+header{background:#1f3a4d;color:#fff;padding:16px}h1{margin:0;font-size:1.4rem}
+.note{background:#fff7d6;border-left:4px solid #e0b300;padding:10px 14px;margin:12px;font-size:.9rem;border-radius:4px}
+.controls{display:flex;gap:8px;flex-wrap:wrap;padding:0 12px 8px;position:sticky;top:0;background:#f6f6f4;padding-top:8px}
+input,select{font-size:1rem;padding:8px;border:1px solid #bbb;border-radius:6px;flex:1;min-width:150px}
+h2{margin:18px 12px 6px;font-size:1.15rem;color:#1f3a4d}h2 span{color:#777;font-weight:normal;font-size:.9rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:10px;padding:0 12px}
+.card{background:#fff;border-radius:8px;padding:12px;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+.card h3{margin:0 0 4px;font-size:1.05rem}.tag{display:inline-block;background:#e4eef5;color:#1f3a4d;border-radius:10px;padding:1px 8px;font-size:.75rem}
+.card p{margin:4px 0;font-size:.88rem}.card b{color:#555}#count{padding:0 12px;font-size:.85rem;color:#666}
+</style></head><body>
+<header><h1>Restaurant List</h1></header>
+<div class="note">Details came from earlier chats and haven't been verified. Information is as of October 2026; check with the restaurant before going.</div>
+<div class="controls"><input id="q" type="search" placeholder="Search name, cuisine, dish..."><select id="city"><option value="">All cities / areas</option></select></div>
+<div id="count"></div><main id="list"></main>
+<script>
+const ORDER=["South Beach / Miami Beach","North Beach","North Miami Beach","Bal Harbour","Wynwood / Midtown / Design District","Brickell","Downtown Miami","North Miami / Little River","Miami-Dade suburbs (west & south)","Broward County","Miami (area not specified)"];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let data=[];
+fetch('restaurants.json').then(r=>r.json()).then(d=>{data=d;
+ const cities=[...new Set(d.map(x=>x.city))].sort((a,b)=>(ORDER.indexOf(a)+99)%110-(ORDER.indexOf(b)+99)%110);
+ const sel=document.getElementById('city');cities.forEach(c=>sel.add(new Option(c,c)));render();});
+function render(){const q=document.getElementById('q').value.toLowerCase(),c=document.getElementById('city').value;
+ const f=data.filter(x=>(!c||x.city===c)&&(!q||Object.values(x).join(' ').toLowerCase().includes(q)));
+ document.getElementById('count').textContent=f.length+' of '+data.length+' restaurants';
+ const groups={};f.forEach(x=>(groups[x.city]=groups[x.city]||[]).push(x));
+ const keys=Object.keys(groups).sort((a,b)=>{const i=ORDER.indexOf(a),j=ORDER.indexOf(b);return (i<0?99:i)-(j<0?99:j)});
+ document.getElementById('list').innerHTML=keys.map(k=>`<h2>${esc(k)} <span>(${groups[k].length})</span></h2><div class="grid">`+
+  groups[k].sort((a,b)=>a.name.localeCompare(b.name)).map(x=>`<div class="card"><h3>${esc(x.name)}</h3><span class="tag">${esc(x.cuisine)}</span>`+
+  [['Address',x.address],['Price',x.price],['Hours',x.hours],['Rating',x.rating],['Dishes',x.dishes],['Notes',x.notes]].filter(p=>p[1]).map(p=>`<p><b>${p[0]}:</b> ${esc(p[1])}</p>`).join('')+'</div>').join('')+'</div>').join('');}
+document.getElementById('q').oninput=render;document.getElementById('city').onchange=render;
+</script></body></html>
