@@ -19,11 +19,13 @@ select{font-size:.85rem;padding:5px;border-radius:6px;border:1px solid #bbb}
 .seg button:first-child{border-radius:6px 0 0 6px}.seg button:last-child{border-radius:0 6px 6px 0}.seg button.on{background:var(--b);color:#fff}
 #count{font-size:.8rem;color:#666;margin-left:auto}
 main{padding:8px 12px 30px}
-.card{background:#fff;border-radius:8px;padding:10px 12px;margin-bottom:8px;box-shadow:0 1px 2px rgba(0,0,0,.1);cursor:pointer}
-.top{display:flex;justify-content:space-between;gap:8px}.nm{font-weight:600}.dist{color:#555;font-size:.8rem;white-space:nowrap}
-.meta{font-size:.82rem;color:#444;margin-top:3px}.meta span{margin-right:10px}
+.card{background:#fff;border-radius:6px;padding:0 10px;margin-bottom:4px;box-shadow:0 1px 1px rgba(0,0,0,.08);cursor:pointer}
+.top{display:flex;align-items:center;gap:8px;min-height:46px}.nm{font-weight:600;font-size:.9rem;flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.meta{font-size:.74rem;color:#555;white-space:nowrap;flex-shrink:0}
+.gh{font-size:.78rem;font-weight:700;color:var(--b);text-transform:uppercase;letter-spacing:.03em;margin:12px 2px 4px;grid-column:1/-1}
+.card.open{padding-bottom:8px}
 .tag{background:var(--chip);border-radius:10px;padding:1px 7px;font-size:.72rem}
-.det{display:none;margin-top:8px;font-size:.85rem;border-top:1px solid #eee;padding-top:6px}.card.open .det{display:block}
+.det{display:none;font-size:.82rem;border-top:1px solid #eee;padding-top:6px}.card.open .det{display:block}
 .det p{margin:4px 0}.det b{color:#555}.nc{color:#999;font-style:italic}
 #map{height:70vh;border-radius:8px;display:none}
 .mini{font-size:.82rem;min-width:180px}.mini b{font-size:.92rem}
@@ -31,7 +33,7 @@ table{width:100%;border-collapse:collapse;background:#fff;font-size:.82rem}th,td
 #tablewrap{display:none;overflow-x:auto}
 details{margin-top:16px}summary{cursor:pointer;font-weight:600;color:#666;padding:6px 0}
 details .card{opacity:.7}
-@media(min-width:800px){main{max-width:1100px;margin:auto}#cards{display:grid;grid-template-columns:1fr 1fr;gap:8px}#cards .card{margin:0}}
+@media(min-width:800px){main{max-width:1100px;margin:auto}#cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:4px 8px;align-items:start}#cards .card{margin:0}}
 </style></head><body>
 <header><h1>Restaurant List</h1></header>
 <div class="note">Details came from earlier chats and haven't been verified. Information is as of October 2026; check with the restaurant before going. Distances are straight-line from Lincoln Road, Miami Beach.</div>
@@ -54,7 +56,7 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const st={q:'',area:new Set,cuisine:new Set,price:new Set,lunch:false,sort:'dist',view:'list'};
 let D=[],map,layer;
 function miles(a,b){const R=3958.8,r=Math.PI/180,dl=(b[0]-a[0])*r,dg=(b[1]-a[1])*r,h=Math.sin(dl/2)**2+Math.cos(a[0]*r)*Math.cos(b[0]*r)*Math.sin(dg/2)**2;return 2*R*Math.asin(Math.sqrt(h))}
-function priceLvl(p){const m=(p||'').match(/^\s*(\$+)/);if(m)return Math.min(m[1].length,4);
+function priceLvl(p){const m=(p||'').match(/^\s*(\$+)(?!\d)/);if(m)return Math.min(m[1].length,4);
  const n=(p||'').match(/\$(\d+)/);if(!n)return 0;const v=+n[1];return v<15?1:v<30?2:v<60?3:4}
 function lunch(x){const h=(x.hours||'').toLowerCase(),all=(h+' '+(x.notes||'')).toLowerCase();
  if(/dinner only|dinner-focused|not a lunch|no weekday lunch/.test(all))return false;
@@ -76,14 +78,13 @@ function filt(){return D.filter(x=>(!st.q||[x.name,x.cuisine,x.city,x.address,x.
 function srt(a){const f={dist:(x,y)=>(x.mi??999)-(y.mi??999),rating:(x,y)=>y.r-x.r,price:(x,y)=>(x.lvl||9)-(y.lvl||9),name:(x,y)=>x.name.localeCompare(y.name)}[st.sort];return a.sort(f)}
 const v=t=>t&&!/^not confirmed$/i.test(t)?esc(t):'<span class="nc">not confirmed</span>';
 const dist=x=>x.mi!=null?x.mi.toFixed(1)+' mi':'';
-function card(x){return `<div class="card" onclick="this.classList.toggle('open')"><div class="top"><span class="nm">${esc(x.name)}</span><span class="dist">${dist(x)}</span></div>
-<div class="meta"><span class="tag">${esc(x.cuisine)}</span><span>${x.lvl?'$'.repeat(x.lvl):'<span class="nc">price ?</span>'}</span><span>${x.r?'★ '+x.r:''}</span><span>${esc(x.city)}</span></div>
+function card(x){return `<div class="card" onclick="this.classList.toggle('open')"><div class="top"><span class="nm">${esc(x.name)}</span><span class="meta">${[esc(x.cuisine.replace('Asian Fusion/Misc','Asian').replace('Japanese/Sushi','Japanese')),x.lvl?'$'.repeat(x.lvl):'',x.r?'★'+x.r:'',dist(x)].filter(Boolean).join(' · ')}</span></div>
 <div class="det"><p><b>Price:</b> ${v(x.price)}</p><p><b>Dishes:</b> ${v(x.dishes)}</p>${x.hours?`<p><b>Hours:</b> ${esc(x.hours)}</p>`:''}<p><b>Address:</b> ${v(x.address)}</p>${x.rating?`<p><b>Rating:</b> ${esc(x.rating)}</p>`:''}${x.notes?`<p><b>Notes:</b> ${esc(x.notes)}</p>`:''}</div></div>`}
 function render(){const all=srt(filt()),open=all.filter(x=>!x.closed),cl=all.filter(x=>x.closed);
  document.getElementById('count').textContent=open.length+' shown';
  const C=document.getElementById('cards'),M=document.getElementById('map'),T=document.getElementById('tablewrap');
  C.style.display=st.view=='list'?'':'none';M.style.display=st.view=='map'?'block':'none';T.style.display=st.view=='table'?'block':'none';
- if(st.view=='list')C.innerHTML=open.map(card).join('')||'<p>No matches.</p>';
+ if(st.view=='list'){const g={};open.forEach(x=>(g[x.city]=g[x.city]||[]).push(x));C.innerHTML=Object.keys(g).sort((a,b)=>AREAS.indexOf(a)-AREAS.indexOf(b)).map(k=>`<div class="gh">${esc(k)} (${g[k].length})</div>`+g[k].map(card).join('')).join('')||'<p>No matches.</p>'}
  if(st.view=='table')T.innerHTML=`<table><tr><th>Name</th><th>Area</th><th>Cuisine</th><th>Price</th><th>Rating</th><th>Dist</th><th>Hours</th><th>Dishes</th><th>Address</th></tr>${open.map(x=>`<tr><td><b>${esc(x.name)}</b></td><td>${esc(x.city)}</td><td>${esc(x.cuisine)}</td><td>${v(x.price)}</td><td>${esc(x.rating)}</td><td>${dist(x)}</td><td>${esc(x.hours)}</td><td>${v(x.dishes)}</td><td>${v(x.address)}</td></tr>`).join('')}</table>`;
  if(st.view=='map')drawMap(open);
  document.getElementById('closed').innerHTML=cl.length?`<details><summary>Closed (${cl.length})</summary>${cl.map(card).join('')}</details>`:''}
